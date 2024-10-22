@@ -1,5 +1,5 @@
 # SLC-TASK
-I am Akshay Chnada UG2K24 @IIITH ECE 
+I am Akshay Chanda UG2K24 @IIITH ECE 
 Currently, I am involved in the tasks provided by the SLC ,
 
 Involvement in the tasks provided by the SLC group has allowed me to revisit and enhance my skills in Python, HTML, and CSS. 
