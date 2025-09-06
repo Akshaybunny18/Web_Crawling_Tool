@@ -36,7 +36,8 @@ def sif(x,url,visited,data,deep=0,maxdeep=8) :
                 sif(x,full_url,visited,data,deep+1,maxdeep)  # Increment depth
             elif link.startswith('https://intranet.iiit.ac.in') or link.startswith('http://intranet.iiit.ac.in') :
                 sif(x,link,visited,data,deep+1,maxdeep)  # Increment depth
-
+print("This code scrapes the intranet website of IIIT-Hyderabad for files with a specified extension.")
+print("all links are saved in urls.txt file")
 x=input("Enter any file extension :) ")
 data=set()
 visited=set()
